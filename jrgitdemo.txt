@@ -3,5 +3,7 @@ demo this is a study demo
 demo second change
 demo third change
 demo hot-fix first change 
-demo hotfix first change
+demo hotfix first 
+demo master change 1
+demo master change 2
 
