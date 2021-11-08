@@ -6,4 +6,6 @@ demo hot-fix first change
 demo hotfix first 
 demo master change 1
 demo master change 2
+demo hotfix first change
+demo from hotfix second change 2
 
